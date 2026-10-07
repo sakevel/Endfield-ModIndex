@@ -53,8 +53,8 @@
         "设置"
       ],
       "repo_url": "https://github.com/sakevel/Endfield-Keybinds",
-      "asset_url": "https://github.com/sakevel/Endfield-Keybinds/releases/download/v0.2.1/EndfieldKeybinds-0.2.1-20261007-221322.zip",
-      "sha256": "1DE1DC798AD3CD7D797FFAE02AB23EF1BEF3CB595E3835544009F3BDCEACF563",
+      "asset_url": "https://github.com/sakevel/Endfield-Keybinds/releases/download/v0.2.1/EndfieldKeybinds-0.2.1-20261007-230719.zip",
+      "sha256": "3A6AD86675BADF8B1720B953F572876F5D5AEF366AC5D620349983FC939B2AB8",
       "depends": [],
       "library": "Keybinds.dll",
       "icon": "https://raw.githubusercontent.com/sakevel/Endfield-Keybinds/main/mod/icon.png"
