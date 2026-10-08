@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "registry": "ZML Mod Registry",
-  "updated_at": "2026-10-08T05:27:00Z",
+  "updated_at": "2026-10-08T13:54:00Z",
   "loader": {
-    "version": "0.4.0",
+    "version": "0.4.2",
     "url": "https://github.com/sakevel/Endfield-ModLoader/releases/latest"
   },
   "total": 8,
