@@ -3,7 +3,7 @@
   "registry": "ZML Mod Registry",
   "updated_at": "2026-10-08T13:54:00Z",
   "loader": {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "url": "https://github.com/sakevel/Endfield-ModLoader/releases/latest"
   },
   "total": 8,
@@ -139,7 +139,7 @@
     {
       "id": "first-person",
       "name": "第一人称",
-      "version": "0.1.1",
+      "version": "0.1.6",
       "description": "切换第一人称视角，调整视野、头部跟随和转身；可选角色眼罩、抑制器扫描与墨镜效果。",
       "authors": "永动接线器",
       "tags": [
@@ -148,8 +148,8 @@
         "趣味"
       ],
       "repo_url": "https://github.com/sakevel/Endfield-FirstPerson",
-      "asset_url": "https://github.com/sakevel/Endfield-FirstPerson/releases/download/v0.1.1/EndfieldFirstPerson-0.1.1-20261008-052406.zip",
-      "sha256": "C094F269E76816F57B11B08185B2547DFC13E2F75D583064E7781BC661679B02",
+      "asset_url": "https://github.com/sakevel/Endfield-FirstPerson/releases/download/v0.1.6/EndfieldFirstPerson-0.1.6-20261009-125908.zip",
+      "sha256": "B0E25E3AA2A53BE1CA602E0360AC9E019164089CBCE8B826375D7291A3DC4C0C",
       "depends": [
         "keybinds"
       ],
